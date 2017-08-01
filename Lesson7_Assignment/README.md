@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 1, 2017
 
 ### Student Name:  
-(First and Last Name)
+Ashley Moysaenko
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we created a recipe app where the recipe appears when you click or hover over the headers.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://amoysaenko.github.io/lesson7_jquery/Lesson7_Assignment/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to adjust the JavaScript so that when you click the header again the information will fade out slowly.
+2. I learned how to change the color for headers in an animated JavaScript.
+3. I learned how to have the list drop down when hovering over the header.
 
